@@ -1,4 +1,3 @@
 # hello-world
 New repository
-
-This is a modified version of README!
+Emmmm, just added this from VSCode
